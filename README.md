@@ -32,9 +32,9 @@
  ### 鸣谢！
  感谢以下各位大佬（排名无分先后）<br />
  
- [`coolsnowwolf`](https://github.com/coolsnowwolf/lede.git)
- [`Lienol`](https://github.com/Lienol/openwrt.git)
- [`ctcgfw`](https://github.com/project-openwrt/openwrt.git)
+ [`coolsnowwolf`](https://github.com/coolsnowwolf/lede/tree/master)
+ [`Lienol`](https://github.com/Lienol/openwrt/tree/22.03)
+ [`immortalwrt`](https://github.com/immortalwrt/immortalwrt)
  [`P3TERX`](https://github.com/P3TERX/Actions-OpenWrt)
  [`Hyy2001X`](https://github.com/Hyy2001X/AutoBuild-Actions)
  [`dhxh`](https://github.com/dhxh/Openwrt-Build)
